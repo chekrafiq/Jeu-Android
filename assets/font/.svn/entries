@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="43"
+   name=""
+   committed-date="2012-05-19T14:12:26.206961Z"
+   url="http://xp-dev.com/svn/MatimDevelopment/assets/font"
+   last-author="Mathewek"
+   kind="dir"
+   uuid="71f187b9-8286-4e1f-adc8-8a5e84777430"
+   repos="http://xp-dev.com/svn/MatimDevelopment"
+   revision="46"/>
+<entry
+   committed-rev="1"
+   name="LuckiestGuy.ttf"
+   text-time="2012-05-20T11:41:21.531250Z"
+   committed-date="2012-03-26T17:12:55.062954Z"
+   checksum="5ee0f2d1a1e6e14d8c4d8fa7f18c3326"
+   last-author="Mathewek"
+   kind="file"
+   prop-time="2012-05-20T11:41:21.468750Z"/>
+<entry
+   name="JungleFeverNF.ttf"
+   kind="file"
+   deleted="true"
+   revision="48"/>
+</wc-entries>
